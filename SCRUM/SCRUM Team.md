@@ -1,0 +1,14 @@
+La unidad fundamental de Scrum es un pequeño grupo de personas, un Scrum Team. El Scrum Team consta de un [[SCRUM Master]], un [[Product Owner]] y Developers. **Dentro de un Scrum Team, no hay subequipos ni jerarquías.** Es una unidad cohesionada de profesionales enfocados en un objetivo a la vez, el Objetivo del Producto.
+El Scrum Team es lo suficientemente pequeño como para seguir siendo ágil y lo suficientemente grande como para completar un trabajo significativo dentro de un Sprint, generalmente 10 personas o menos. **En general, hemos descubierto que los equipos más pequeños se comunican mejor y son más productivos.** Si los Scrum Teams se vuelven demasiado grandes, deberían considerar reorganizarse en **múltiples Scrum Teams cohesivos**, cada uno enfocado en el mismo producto. Por lo tanto, deben compartir el mismo Objetivo del Producto, el [[Product Backlog]] y el Product Owner.
+El Scrum Team es responsable de todas las actividades relacionadas con el producto, desde la colaboración de los interesados, la verificación, el mantenimiento, la operación, la experimentación, la investigación y el desarrollo, y cualquier otra cosa que pueda ser necesaria. Están estructurados y empoderados por la organización para gestionar su propio trabajo. Trabajar en [[Sprints]] a un ritmo sostenible mejora el enfoque y la consistencia del Scrum Team.
+Un Scrum Team está compuesto por tres roles claves:
+1. **El Product Owner:** es la persona responsable de representar a los intereses del negocio y de priorizar y gestionar el "Product Backlog", que es una lista de todas las tareas y requisitos del proyecto.
+2. **El Scrum Master:** es la persona responsable de facilitar y apoyar al equipo de Scrum para que pueda trabajar de manera efectiva. El Scrum Master ayuda a asegurar que el equipo siga los principios y procesos Scrum y resuelve cualquier problema u obstáculo que pueda surgir.
+3. **Los miembros del equipo de Scrum:** son los individuos responsables de completar las tareas del proyecto. Los miembros del equipo de Scrum son expertos en su campo y trabajan juntos para completar las tareas del proyecto de manera efectiva y eficiente. 
+Un Scrum Team también puede incluir a otros stakeholders o interesados en el proyecto, como clientes o usuarios finales, que pueden participar en algunas de las reuniones y decisiones del equipo de Scrum. 
+
+
+# Valores que debe tener un Scrum Team
+Los valores de Scrum son un conjunto de principios y creencias que guían el comportamiento y la forma en que se lleva a cabo un proyecto utilizando la metodología Scrum. Estos valores son:
+1. **Valor por el trabajo hecho:** El equipo se enfoca en completar tareas reales y entregables en lugar de trabajar en actividades superficiales o innecesarias.
+2. **Valor por la colaboración:** El equipo trabaja juntos de manera abierta y [Transparente](Transparency) y promueve la colaboración y el trabajo en equipo para lograr el éxito del proyecto.
